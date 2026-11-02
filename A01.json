@@ -1,0 +1,24 @@
+{
+  "helpers": [
+    "Body",
+    "Engine_F",
+    "exhaust_0",
+    "fire_0",
+    "interact",
+    "l_0_fff1d4",
+    "l_1_fff1d4",
+    "seat_0",
+    "seat_1"
+  ],
+  "joints": [
+    "Wheel_FL",
+    "Wheel_FR",
+    "Wheel_RL",
+    "Wheel_RR",
+    "neutral_bone"
+  ],
+  "mesh_nodes": [
+    "car_0",
+    "collider"
+  ]
+}
